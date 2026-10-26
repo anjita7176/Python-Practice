@@ -1,32 +1,110 @@
-# Python Practice & Data Science Learning
+<div align="center">
 
-A collection of Python exercises documenting my learning journey, from core programming concepts to introductory data analysis.
+# 🐍 Python Practice & Data Science Learning
 
-## Projects
+### Building Strong Foundations in Python, NumPy and Data Analysis
 
-| File | What it covers |
-| --- | --- |
-| [student_marks_analyzer.py](./student_marks_analyzer.py) | Uses NumPy arrays to calculate summary statistics and count marks above or below selected thresholds. |
-| [basic.py](./basic.py), [h.py](./h.py), [tt.py](./tt.py) | Small practice scripts for Python fundamentals. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
 
-## Run a script
+</div>
 
-Install Python 3 and run a file from the repository directory:
+---
+
+## 👩‍💻 About This Repository
+
+Welcome to my Python learning repository!
+
+I'm building my programming skills through hands-on exercises, small projects, and data analysis tasks. This repository documents my progress as I work toward a career in Data Science and Machine Learning.
+
+## 📂 Projects
+
+### 1. Student Marks Analyzer
+
+**File:** `student_marks_analyzer.py`
+
+A Python project that uses NumPy to analyze student marks and calculate summary statistics.
+
+**Concepts covered:**
+
+* NumPy arrays
+* Summary statistics
+* Marks analysis
+* Conditional operations
+
+### 2. Python Fundamentals
+
+**File:** `basic.py`
+
+A collection of beginner-friendly Python exercises designed to strengthen programming fundamentals.
+
+**Topics practiced:**
+
+* Variables and data types
+* Basic operations
+* Programming logic
+* Problem-solving fundamentals
+
+## 🛠️ Technologies
+
+* Python
+* NumPy
+* Visual Studio Code / Python development tools
+
+## 🚀 Getting Started
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/anjita7176/Python-Practice.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd Python-Practice
+```
+
+### 3. Install NumPy
+
+```bash
+python -m pip install numpy
+```
+
+### 4. Run a Python script
+
+```bash
+python basic.py
+```
+
+To run the marks analyzer:
 
 ```bash
 python student_marks_analyzer.py
 ```
 
-Replace the filename to run another exercise. The NumPy analyzer requires NumPy; install it with `python -m pip install numpy`.
+Run the commands from the repository directory. If a particular script has different dependencies, install those before running it.
 
-## Learning goals
+## 🎯 Learning Goals
 
-- Practice Python syntax and running small programs.
-- Use NumPy arrays and basic summary operations.
-- Keep examples organized as the learning portfolio grows.
+* Strengthen Python programming fundamentals.
+* Practice data manipulation using NumPy.
+* Develop analytical and problem-solving skills.
+* Prepare for more advanced Data Science and Machine Learning projects.
 
-This repository contains learning exercises and is updated as I build my Python and data science skills.
+## 👩‍💻 About Me
+
+**Anjita Kumari**
+Aspiring Data Scientist | Machine Learning | Generative AI
+
+* GitHub: [@anjita7176](https://github.com/anjita7176)
+* LinkedIn: [Connect with me](https://www.linkedin.com/in/anjita-kumari-48975624b/)
 
 ---
 
-Maintained by [Anjita Kumari](https://github.com/anjita7176).
+<div align="center">
+
+*Learning by coding, one project at a time.* 🌱
+
+</div>
